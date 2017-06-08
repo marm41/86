@@ -1,8 +1,6 @@
-var a = 2;
-
-var b = 10;
-
-var value = (a * a) + (2 * a * b) - (b * b);
+var a = 2,
+	b = 10,
+	value = (a * a) + (2 * a * b) - (b * b);
 
 console.log(value);
 
